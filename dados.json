@@ -1,0 +1,20 @@
+{
+    "nome": "Luiza Sonza",
+    "album": "DOCE 22",
+    "style" : "Pop",
+    "price": "R$ 40,00",
+    "image" : "<img src='img/luisa-sonza-1.webp' width='400px'> ",
+
+    "nome2": "Bruno Mars",
+    "album2": "Doo-Wops & Hooligans",
+    "style2" : "Pop",
+    "price2": "R$ 50,00",
+    "image2" : "<img src='img/71p2PckD5iL._UF1000,1000_QL80_.jpg' width='400px'> ",
+
+    "nome3": "James Arthur",
+    "album3": "YOU",
+    "style3" : "Pop",
+    "price3": "R$ 124,00",
+    "image3" : "<img src='img/james1.jpg' width='400px' > "
+    
+}
